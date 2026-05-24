@@ -1,0 +1,6 @@
+{
+  "name": "Retinal Scan AI",
+  "description": "Interactive clinical eye screening system using Gemini AI to detect potential indications of diabetes, hypertension, and early Alzheimer's disease.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
